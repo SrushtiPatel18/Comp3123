@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "week-07_react_example",
   "version": "0.1.0",
@@ -35,5 +36,69 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+=======
+  "name": "lab4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+>>>>>>> 1dbacc91a67945b47f9bc8eb240ee3bd575eb2d3
+    "nodemon": "^3.1.10"
+  }
+}
+=======
+{
+  "name": "week06-mongodb-notes-app",
+  "version": "1.0.0",
+  "description": "Week06 Exercise as note taking application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "expressJS",
+    "nodeJS",
+    "week06",
+    "API",
+    "mongoDB",
+    "REST",
+    "mongoose",
+    "notes"
+  ],
+  "author": "Pritesh Patel",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "mongoose": "^8.19.1",
+    "nodemon": "^3.1.10"
+  }
+}
+=======
+  "name": "lab4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+>>>>>>> 1dbacc91a67945b47f9bc8eb240ee3bd575eb2d3
+    "nodemon": "^3.1.10"
+>>>>>>> 1404a5db89fe0b3c75675c3e84890f71b08d6400
   }
 }
