@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #ffffff;
+}
+
+.app-header {
+  background-color: #11a63a;
+  color: #ffffff;
+  text-align: center;
+  padding: 15px 0;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.user-list-container {
+  padding: 20px;
+}
+
+.user-card-wrapper {
+  margin-bottom: 15px;
+  background-color: #ffffff;
+}
+
+.user-card {
+  background-color: #0097a7;
+  color: #ffffff;
+  border-radius: 4px;
+  padding: 20px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.user-left {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 25px;
+}
+
+.user-img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 15px;
+}
+
+.details-btn {
+  padding: 8px 18px;
+  border-radius: 4px;
+  border: none;
+  background-color: #007bff;
+  color: #ffffff;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.user-right {
+  flex: 1;
+}
+
+.user-name-line {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 18px;
+}
